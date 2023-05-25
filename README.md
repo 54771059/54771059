@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://thumbs.gfycat.com/AchingUnsightlyHarrierhawk-small.gif" alt="banner"/> </p>
+
 <h1 align="center">HEY! Its me! Yehya</h1>
 <h3 align="center">And i code n stuff</h3>
 
@@ -13,6 +15,7 @@
 
 - ⚡ Fun fact **I will beat you at chess! Maybe?**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yehya-mohey-45aba7228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yehya-mohey" height="30" width="40" /></a>
@@ -26,3 +29,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sculptednyx&show_icons=true&locale=en&layout=compact" alt="sculptednyx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sculptednyx&show_icons=true&locale=en" alt="sculptednyx" /></p>
+
+
+<h3 align="left">Credits to:</h3>
+
+- rahuldkjain for the read.me generator (https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
