@@ -28,9 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sculptednyx&show_icons=true&locale=en&layout=compact" alt="sculptednyx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sculptednyx&show_icons=true&locale=en" alt="sculptednyx" /></p>
-
-
 <h3 align="left">Credits to:</h3>
 
 - rahuldkjain for the read.me generator (https://rahuldkjain.github.io/gh-profile-readme-generator/)
