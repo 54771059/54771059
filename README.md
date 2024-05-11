@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sculptednyx&label=Profile%20views&color=0e75b6&style=flat" alt="sculptednyx" /> </p>
 
-- ⚙️ I’m currently learning about **Cyber SEC**
+- ⚙️ I’m currently learning about **Cybersecurity**
+
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/SculptedNyx.png" alt="TryHackMe"></p>
 
 - 🍀 Head of registration at **[IEEE AAST SB](https://linktr.ee/ieeeaast)**
 
