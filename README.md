@@ -1,8 +1,8 @@
 - ⚙️ I’m currently learning about **Cybersecurity**
 
-<p><img src="https://tryhackme-badges.s3.amazonaws.com/SculptedNyx.png" alt="TryHackMe"></p>
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/284805f2.png" alt="THM" /></p>
 
-- 🍀 Head of registration at **[IEEE AAST SB](https://linktr.ee/ieeeaast)**
+- 🍀 Vice-Chairman at **[IEEE AAST SB](https://linktr.ee/ieeeaast)**
 
 - 📞 Reach me at **DarkValvet@protonmail.com**
 
