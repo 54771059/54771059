@@ -4,7 +4,7 @@
 
 - 🍀 Vice-Chairman at **[IEEE AAST SB](https://linktr.ee/ieeeaast)**
 
-- 📞 Reach me at **DarkValvet@protonmail.com**
+- 📞 Reach me at **DarkValvet@protonmail.com** (Unofficial mail)
 
 - ⚡ **I might be able to beat you at chess**
 
