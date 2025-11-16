@@ -1,8 +1,6 @@
-- ⚙️ I’m currently learning about **Cybersecurity**
+- ⚙️ Web & PWN Enjoyer
 
-<p><img src="https://tryhackme-badges.s3.amazonaws.com/284805f2.png" alt="THM" /></p>
-
-- 🍀 Vice-Chairman at **[IEEE AAST SB](https://linktr.ee/ieeeaast)**
+- 🍀 Blog at **[FEAR.]([https://linktr.ee/ieeeaast](https://tungsten-gallimimus-546.notion.site/FEAR-28822d28b228802fa329d8aa536cbbc3?source=copy_link))**
 
 - 📞 Reach me at **DarkValvet@protonmail.com** (Unofficial mail)
 
